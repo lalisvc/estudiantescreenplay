@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lineabasescreenplay.iml" filepath="$PROJECT_DIR$/.idea/modules/lineabasescreenplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lineabasescreenplay_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lineabasescreenplay_main.iml" group="lineabasescreenplay" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lineabasescreenplay_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lineabasescreenplay_test.iml" group="lineabasescreenplay" />
+    </modules>
+  </component>
+</project>
